@@ -1,0 +1,5 @@
+build
+.idea
+cmake-build-debug
+chatGPT
+.DS_Store
